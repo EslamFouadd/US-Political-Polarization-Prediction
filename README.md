@@ -1,6 +1,8 @@
 # US-Political-Polarization-Prediction
 Kaggle competition
 
+![Summary](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F12064410%2F8ab2780a783aaab37e5f5446d7566d9e%2Fvoteview_party_mean_diff.png?generation=1677880338861536&alt=media)
+
 
 
 Political Polarization in US Congress (Assorted) columns:
